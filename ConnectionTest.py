@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 29 09:55:22 2017
 
-@author: ASUS
+@author: Asif
 """
 
 import MySQLdb
